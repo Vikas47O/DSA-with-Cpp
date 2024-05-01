@@ -5,11 +5,11 @@ int main (){
     cout << " Enter a number " ;
     int n;
     cin >> n ;
-    if (n%5==0){
-        cout << "Multiple of 5 ";
+    if (n%2==0){
+        cout << "EVEN ";
     }
     else{
-        cout << "not divisible by 5" ;
+        cout << "ODD" ;
     }
-    
+
 }

@@ -9,4 +9,5 @@ int main(){
     else {
         cout << " its not a 3 digit no .";
     }
-}
+
+}// if condition 1 is false then the compiler wont check for condition 2 
